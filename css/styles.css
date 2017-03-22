@@ -11,3 +11,7 @@ twitterwidget, iframe {
   border: 2px solid #FFF;
   padding: 20px;
 }
+
+.labs p {
+  color: #FFF;
+}
